@@ -7,7 +7,7 @@ To install the archetype do
 To refresh the catalog do
 `mvn archetype:crawl`
 
-To generate a new project using this archetype do 
+To generate a new project using this archetype run the following command 
 
 `mvn archetype:generate \
 -DarchetypeGroupId=com.justin.app \
